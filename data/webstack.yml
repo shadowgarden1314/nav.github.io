@@ -420,6 +420,132 @@
           logo: 哔哩哔哩.ico
           url: https://ani.gamer.com.tw/
           description: 台湾那边的动漫网站
+
+    - term: 番剧下载
+      links:
+        - title: 末日动漫资源库
+          logo: https://s2.loli.net/2024/03/07/qeXFErB2mctnGAQ.png
+          url: https://share.acgnx.net/
+          description: bt种子下载
+        - title: 幻樱字幕组
+          logo: https://s2.loli.net/2024/03/07/eMj76i9DpGOEUgQ.png
+          url: http://www.hysub.net/
+          description: bt种子下载
+        - title: 动漫花园
+          logo: https://s2.loli.net/2024/03/07/qH9sk15Rgx2X8Ef.png
+          url: https://share.dmhy.org/
+          description: bt种子下载
+        - title: 萌番组
+          logo: https://s2.loli.net/2024/03/07/roEXNMizt4yncW2.png
+          url: https://bangumi.moe/
+          description: bt种子下载
+
+    - term: 小说漫画
+      links:
+        - title: 拷贝漫画
+          logo: https://s2.loli.net/2024/03/07/MGxLDkZ26tcnjiw.png
+          url: https://www.mangacopy.com/
+          description: 可以说是最全的漫画网站了
+        - title: 动漫之家
+          logo: https://s2.loli.net/2024/03/07/AwQ7n6RJqlMjktc.jpg
+          url: https://www.idmzj.com/
+          description: app都特别好用
+          
+    - term: 插画壁纸
+      links:
+        - title: pixiv
+          logo: https://z4a.net/images/2024/01/24/12aa5bb4898b75544.jpg
+          url: https://www.pixiv.net/
+          description: 插画平台
+        - title: pixivel
+          logo: https://s2.loli.net/2024/03/07/ibaPuoR67MsGXDT.png
+          url: https://pixivel.moe/
+          description: pixiv的镜像网站
+        - title: pixiv.moe
+          logo: https://z4a.net/images/2024/01/24/12aa5bb4898b75544.jpg
+          url: https://pixiv.moe/
+          description: pixiv的镜像网站
+        - title: wallhaven
+          logo: https://s2.loli.net/2024/03/07/FpKYNM5mk7xO9fv.png
+          url: https://wallhaven.icu/
+          description: 国外壁纸最多的网站
+        - title: 萌图社
+          logo: https://s2.loli.net/2024/03/07/lH8bGXZmcn2q7Bd.png
+          url: https://moetu.club/
+          description: 萌图
+        - title: wallpaper
+          logo: https://s2.loli.net/2024/03/07/LjQynCiEhW1ZbYu.png
+          url: https://wallpaperscraft.com/
+          description: 壁纸
+        - title: pixivision
+          logo: https://s2.loli.net/2024/03/07/M2vWm74qEhO86tA.png
+          url: https://www.pixivision.net/zh/
+          description: pixiv的子栏目
+        - title: rule34
+          logo: https://s2.loli.net/2024/03/07/iUdJm5rnwBFo67H.png
+          url: https://rule34.paheal.net/
+          description: 懂的都懂
+
+    - term: COSPLAY
+      links:
+        - title: E次元
+          logo: https://s2.loli.net/2024/03/07/Z2vVCNW3Puf7s8K.jpg
+          url: https://www.evacg.org/
+          description: lsp狂喜
+        - title: 次元小镇
+          logo: https://acgdh.cc/wp-content/uploads/2023/01/a6a5f-dimtown.com.png
+          url: https://dimtown.com/
+          description: lsp狂喜
+          
+    - term: 游戏世界
+      links:
+        - title: 量子ACG
+          logo: https://s2.loli.net/2024/03/07/R6kKet7zW2BAXGb.jpg
+          url: https://lzacg.org/
+          description: galgame游戏
+        - title: xxxxx520
+          logo: https://s2.loli.net/2024/03/07/cMQFfRYptbuTSmP.jpg
+          url: https://www.gamer520.com/
+          description: 各种pc游戏
+          
+    - term: ACG社区
+      links:
+        - title: 次元小镇
+          logo: https://acgdh.cc/wp-content/uploads/2023/01/a6a5f-dimtown.com.png
+          url: https://dimtown.com/
+          description: lsp狂喜
+        - title: 琉璃神社
+          logo: hhttps://s2.loli.net/2024/03/07/UfybQkdjPgc137q.jpg
+          url: https://www.hacg.mov/
+          description: 老牌acg
+        - title: Bangumi
+          logo: https://acgdh.cc/wp-content/uploads/2022/08/ad942-bgm.tv.png
+          url: https://bgm.tv/
+          description: 类似b站
+        - title: 初音社
+          logo: https://s2.loli.net/2024/03/07/WeV2Y4klG7XxDaE.jpg
+          url: https://www.mikuclub.win/
+          description: acg社区
+        - title: ACG17
+          logo: https://s2.loli.net/2024/03/07/XYBCU2W8r5euifh.png
+          url: https://acg17.com/
+          description: 社区
+        - title: 巴哈姆特
+          logo: https://s2.loli.net/2024/03/07/Mg6UhQoxH93vPEi.png
+          url: https://www.gamer.com.tw/
+          description: 台湾的acg社区
+
+    - term: 3D/MMD
+      links:
+        - title: iwara
+          logo: https://s2.loli.net/2024/03/07/uPYQrkngVX1SMqp.png
+          url: https://www.iwara.tv/
+          description: 经典mmd
+      links:
+        - title: rule34
+          logo: https://s2.loli.net/2024/03/07/fXOCzTl5WMeov42.png
+          url: https://rule34video.com/
+          description: 懂的都懂
           
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
