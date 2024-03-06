@@ -51,6 +51,10 @@
       logo: google.ico
       url: https://www.google.com/
       description: 谷歌搜索，最好用的搜索引擎
+    - title: pixiv
+      logo: https://z4a.net/images/2024/01/24/12aa5bb4898b75544.jpg
+      url: https://www.pixiv.net/
+      description: 插画平台
 
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
