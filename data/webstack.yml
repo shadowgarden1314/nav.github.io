@@ -2,17 +2,17 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 小A猪崽
+    - title: Alan
       logo: xazz.ico
-      url: https://nav.xazz.top
+      url: https://web.hellowold.dynv6.net/
       description: 丰富的导航站
     - title: 博客
       logo: 博客.ico
-      url: https://ikirito.me/
+      url: https://blog.hellowold.dynv6.net/?theme=hexo
       description: 站长的博客
     - title: 关于我
       logo: 关于我.ico
-      url: https://doks.xazz.top/blog/
+      url: https://blog.hellowold.dynv6.net/about?theme=hexo
       qrcode: assets/images/my.png
       description: 站长的个人介绍
     - title: 文档库
@@ -391,7 +391,37 @@
           logo: 坚果云.ico
           usrl: https://www.jianguoyun.com/
           description: 任何设备，随时随地实现文件共享
-
+          
+- taxonomy: ACG专区
+  icon: fa-solid fa-tv
+  list:
+    - term: 动漫番剧
+      links:
+        - title: 樱花动漫
+          logo: 哔哩哔哩.ico
+          url: https://www.zkk78.com/
+          description: 老牌动漫番剧网站
+        - title: 次元城动漫
+          logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABjFBMVEVHcEzN4/adoqzm7/fl6/HY3+nF3fPL1Nyut8Pe7/vj8/64ws1aj6IZP1m3vsTm8/wYGiO4ur6kqK7S5fKqsbmQjJy1z+fv+P2vsbfc7/2xt8G/wcQmLjo2OUNhhKDW6v/C6cEAfb2Pt9YGjr4Lj8Gutr/46eSnr7qVm6T129bv+v+0usK5vcGqs7ixtrurr7SOlaCdp7LO5/+92/CLkZu4uLnF4Pd7pcahqrSFjpqYn6vZwr7CxMa5rayNttWAj6T349+ipau7w8iAh5KcvNSKpbyjrLaMmKXg6fO0zd3Fx8unqrCUrsLK5fYTITTn7/i11emXiZB+mrKdpKzN9s1XXnLV4/DS2+nM1OHX7P2ws7fIzdSilpv+8+7qxr9wdoH4/f7f1tjq08yDtuD2x8Bnl7/y1cV7f4vSr6ZHT0vI2rizoqA7Mibc4eXu9vuzwdHf8/uPgZDWzs2ktMXIubbs58PGrqc9VGeHaXC6v6Th88TltKySqau5yrNOSlEAc54xsM+h09oAL1hNscV+1XEGAAAAJXRSTlMAbI9iBfqIFEdHiWJHBeLiVGyDzKur4szMq8zM4szMq+IU4oNsJ4sw4wAAAmZJREFUKJFlk+VTG1EUxTeEiaAF6m5vXbPubNw9JERIcA/aAYqV9h/vQqFAez6+35x7Zu49D4L+yh/0+L58HfkE/adB71SOL/KXy+Wzl8ODj1lwfFZyYRbNMBRFjQUesqGZ3ZyUi6qaxiEUABQYuGevdvHUTiorIADEKSocJmj02R0bwPFZni8KHAIQAjhKmAjT2q33SZ6XisUUq3EAEGiLEGgybdDETe7o23wsGuVUlVMAEa6gaabbiqRRcWzwxphf3bNtVVAUgiDoNhoW1tdrZMYYduH7oyNr7zihsogCAAnM/RJ6sRUhGfKNuxdrUZZjpb1IAtEARdCZQxg2IyJJZkg/FJSk1PJyWYiggKUQhmZ1uLOw2TIYhg5AnlBoVpIXbUEDKqJohKN3NreO02mHdiYgX8gVLy+yKNLmKmrTnNv6ebktpjMiOwn5pGt4kkXZuLkprpprc9u/rk5FI9OsTEIeqdEIb2ycaAnExNbWdBiGV06XRDcTnYAC+sq37+f2OhJXShd5owPD09jpEmM0mW4A8rusamwnWAQpHfxITU+7ENObJO10/RD0bqNapWiOZYEwr2ML7lgXiyQdee1uyHteraZiFbuLcO0l7NoId3SRRDnv9eI/ntVqthKpraLsHAZjmOs8pMnE+E1ZRmrlaFaxo5Ycay/M77uzMdOhW8E/B/VJURuoWcuy5IPkzEx9J+oolO+uCh9CMbRStmS5Xkgme/VGTog/fVCwEJ/lErFeAU/28X6DLz8oGAQFPruJvX4ST+J4of585HFxR4eneniy0C/g+AvvP6W+/Q5DQ56g//7lN2DqkUcurGmOAAAAAElFTkSuQmCC
+          url: https://www.cycdm01.top/
+          description: 画质很好的动漫网站
+        - title: hanime1
+          logo: 哔哩哔哩.ico
+          url: https://hanime1.me/
+          description: 不要在公共场合看
+        - title: 喵物次元
+          logo: 哔哩哔哩.ico
+          url: https://catw.moe/
+          description: 新兴的动漫网站画质可以
+        - title: Anfuns
+          logo: 哔哩哔哩.ico
+          url: https://www.anfuns.cc/
+          description: 大名鼎鼎的A站
+        - title: 动画疯
+          logo: 哔哩哔哩.ico
+          url: https://ani.gamer.com.tw/
+          description: 台湾那边的动漫网站
+          
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
