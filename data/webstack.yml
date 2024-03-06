@@ -7,11 +7,11 @@
       url: https://web.hellowold.dynv6.net/
       description: 丰富的导航站
     - title: 博客
-      logo: 博客.ico
+      logo: https://s2.loli.net/2024/03/07/FWwYtQURMlXEfNi.png
       url: https://blog.hellowold.dynv6.net/?theme=hexo
       description: 站长的博客
     - title: 关于我
-      logo: 关于我.ico
+      logo: https://s2.loli.net/2024/03/07/Umt8lWxrvpfX7BS.jpg
       url: https://blog.hellowold.dynv6.net/about?theme=hexo
       qrcode: assets/images/my.png
       description: 站长的个人介绍
